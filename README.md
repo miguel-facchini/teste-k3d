@@ -10,3 +10,9 @@ https://docs.google.com/document/d/1sDY6CShgv5DOAX_JX-wlW-_MiIq-9cArW6YPK1lqSog/
   
 LINK DO VÍDEO PARA QUEM QUISER FAZER PASSO A PASSO    
 https://drive.google.com/file/d/1LZOzcE9MkJsVgNBm3dvI4R9TnvHEqxoJ/view?usp=sharing  
+  
+  
+SITES PAI DO PROJETO  
+https://rancher.com/  
+https://k3d.io/v5.4.1/  
+  
