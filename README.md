@@ -2,7 +2,7 @@
 Teste do K3d - Com ele operacional  
   
   
-LINK DE ACESSO A DOCUMENTAÇÂO
+LINK DE ACESSO A DOCUMENTAÇÂO  
 Quem quiser ver funcionando diretamente, com o código final, já com Load Balance, fazendo deploy certinho.  
 Utilizem o arquivo deplyment.yaml.  
 
